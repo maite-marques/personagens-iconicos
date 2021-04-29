@@ -1,6 +1,6 @@
 # Personagens Icônicos
 
-Exercise developed with students to review the conceps of React components, props, propTypes.
+Exercise developed with students to review the conceps of React components, props and propTypes.
 
 <img src="./public/images/screen.png" src="print screen of the application">
 <p>Print screen of the project</p>
