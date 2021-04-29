@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Personagens Icônicos
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Exercise developed with students to review the conceps of React components, props, propTypes.
+
+<img src="images/screen.png" src="print screen of the application">
+<p>Print screen of the project</p>
 
 ## Available Scripts
 
@@ -68,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
