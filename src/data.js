@@ -16,7 +16,7 @@ const personagens = [
   },
   {
     id: 4,
-    name: 'Goku',
+    name: undefined,
     image: 'images/goku.jpeg'
   },
   {
