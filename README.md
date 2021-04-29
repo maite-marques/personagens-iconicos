@@ -2,7 +2,7 @@
 
 Exercise developed with students to review the conceps of React components, props, propTypes.
 
-<img src="images/screen.png" src="print screen of the application">
+<img src="./public/images/screen.png" src="print screen of the application">
 <p>Print screen of the project</p>
 
 ## Available Scripts
